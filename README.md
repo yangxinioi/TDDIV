@@ -8,9 +8,9 @@ Download the TDDIV dataset [Baidu disk](https://pan.baidu.com/s/) Access code: a
     ```
     --TDDIV/
     	|--images
-         	|--trainval
-          |--test
+            |--trainval
+            |--test
     	|--labels
-          |--trainval
-          |--test
+            |--trainval
+            |--test
     ```
