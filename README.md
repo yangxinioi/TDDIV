@@ -3,7 +3,7 @@
 TDDIV: New Benchmark for Tiny Drone Detection in Infrared Videos
 
 ## Preparing the dataset
-Download the TDDIV dataset [Baidu disk](https://pan.baidu.com/s/) Access code: a410) to your disk, the organized directory should look like:
+Download the TDDIV dataset [Baidu disk](https://pan.baidu.com/s/14N70fnm4isRvZwcxgXtgIg) Access code: i9rf) to your disk, the organized directory should look like:
 
     ```
     --TDDIV/
