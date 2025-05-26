@@ -7,10 +7,10 @@ Download the TDDIV dataset [Baidu disk](https://pan.baidu.com/s/) Access code: a
 
     ```
     --TDDIV/
-    	|--images
+        |--images
             |--trainval
             |--test
-    	|--labels
+        |--labels
             |--trainval
             |--test
     ```
